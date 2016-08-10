@@ -5,5 +5,5 @@ pixelCutOut.shader: 	         Takes the same input and makes a cut-out of the mo
 pixelShadowReplacement.shader: 	 Takes the same input and generates an accurate shadow suitable for placing beneath the monster.
 playerColorReplacement.shader:   Performs the same function for pixelColorReplacement.shader but for the player character
 
-ImagePaletteApplied.png:             An example of before and after the pixelColorReplacement.shader'
+ImagePaletteApplied.png:          An example of before and after the pixelColorReplacement.shader'
 ```
