@@ -1,4 +1,4 @@
-A variety of shaders I developed for the in-development game Crowns (https://twitter.com/crowns_dev/)
+A variety of shaders I developed for the in-development game [Crowns](https://twitter.com/crowns_dev/)
 ```
 pixelColorReplacement.shader:    Reads the RGB value of an image and replaces it with the color from a palette
 pixelCutOut.shader: 	         Takes the same input and makes a cut-out of the monster's sprite
